@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Gowrigari Supraneeth Reddy!  
-🚀 **Data Analyst | SQL | Power BI | Tableau | Python**  
+🚀 **Data Analyst | SQL | Excel | Power BI | Tableau | Python**  
 
 🎯 Passionate about uncovering insights from data and helping businesses make data-driven decisions. I specialize in:
 - 🔍 Data Cleaning, Wrangling & EDA
